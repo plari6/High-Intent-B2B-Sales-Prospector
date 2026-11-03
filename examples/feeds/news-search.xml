@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Sample in Google News RSS format (titles end with " - Publisher"), fictional companies. -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>"raised seed" - News search (sample)</title>
+  <link>https://news.example/search</link>
+  <item>
+    <title>Ledgerly raises $4.5M seed round to automate month-end close for SMBs - Startup Wire</title>
+    <link>https://startupwire.example/2026/11/02/ledgerly-seed/</link>
+    <guid isPermaLink="false">dup-ledgerly</guid>
+    <pubDate>Mon, 02 Nov 2026 14:30:00 GMT</pubDate>
+    <description>&lt;a href="https://startupwire.example/2026/11/02/ledgerly-seed/"&gt;Ledgerly raises $4.5M seed round&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Startup Wire&lt;/font&gt;</description>
+    <source url="https://startupwire.example">Startup Wire</source>
+  </item>
+  <item>
+    <title>Medically, the patient-intake startup, is hiring a new CEO as founder steps back - Health Biz Journal</title>
+    <link>https://healthbiz.example/medically-ceo-search</link>
+    <guid isPermaLink="false">medically-ceo</guid>
+    <pubDate>Sun, 01 Nov 2026 18:00:00 GMT</pubDate>
+    <description>Medically is hiring a new CEO.</description>
+    <source url="https://healthbiz.example">Health Biz Journal</source>
+  </item>
+  <item>
+    <title>Orbitly acquires analytics startup Pixelcount to expand its data platform - SaaS Weekly</title>
+    <link>https://saasweekly.example/orbitly-pixelcount</link>
+    <guid isPermaLink="false">orbitly</guid>
+    <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+    <description>The deal terms were not disclosed.</description>
+    <source url="https://saasweekly.example">SaaS Weekly</source>
+  </item>
+  <item>
+    <title>Gridwise launches energy forecasting API for utilities - Energy Tech Today</title>
+    <link>https://energytech.example/gridwise-api</link>
+    <guid isPermaLink="false">gridwise</guid>
+    <pubDate>Tue, 27 Oct 2026 09:00:00 GMT</pubDate>
+    <description>Gridwise announced general availability of its API.</description>
+    <source url="https://energytech.example">Energy Tech Today</source>
+  </item>
+</channel>
+</rss>

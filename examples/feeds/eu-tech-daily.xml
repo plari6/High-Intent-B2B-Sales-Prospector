@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sample Atom feed with fictional companies, used by `prospector demo` and the tests. -->
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>EU Tech Daily (sample)</title>
+  <id>urn:example:eu-tech-daily</id>
+  <updated>2026-11-03T09:00:00Z</updated>
+  <entry>
+    <title>Berlin-based HR tech startup Teamforge secures €8 million to expand into the UK</title>
+    <link rel="alternate" href="https://eutechdaily.example/teamforge-8m"/>
+    <id>urn:example:teamforge</id>
+    <published>2026-11-02T11:00:00Z</published>
+    <summary type="html">&lt;p&gt;Teamforge, which helps mid-sized companies run onboarding, will use the funding to open a London office and hire 40 people.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Following a record year, Ledgerly hires Jordan Blake as VP of Sales</title>
+    <link rel="alternate" href="https://eutechdaily.example/ledgerly-vp-sales"/>
+    <id>urn:example:ledgerly-vp</id>
+    <published>2026-11-03T07:45:00Z</published>
+    <summary>Fresh off its seed round, Ledgerly is building its first outbound team.</summary>
+  </entry>
+  <entry>
+    <title>Paris AI startup Mistweave emerges from stealth with $6M pre-seed</title>
+    <link rel="alternate" href="https://eutechdaily.example/mistweave-stealth"/>
+    <id>urn:example:mistweave</id>
+    <published>2026-11-01T15:20:00Z</published>
+    <summary>Mistweave builds AI agents for insurance claims teams.</summary>
+  </entry>
+  <entry>
+    <title>Solo VC Harbor Capital launches €40 million debut fund for climate startups</title>
+    <link rel="alternate" href="https://eutechdaily.example/harbor-fund"/>
+    <id>urn:example:harbor</id>
+    <published>2026-11-02T10:00:00Z</published>
+    <summary>The new fund will back pre-seed climate founders.</summary>
+  </entry>
+  <entry>
+    <title>Shipsy Freight shuts down after failing to raise Series B</title>
+    <link rel="alternate" href="https://eutechdaily.example/shipsy-shutdown"/>
+    <id>urn:example:shipsy</id>
+    <published>2026-11-02T13:00:00Z</published>
+    <summary>The logistics startup is winding down operations.</summary>
+  </entry>
+</feed>

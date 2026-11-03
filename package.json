@@ -1,0 +1,36 @@
+{
+  "name": "high-intent-b2b-sales-prospector",
+  "version": "1.0.0",
+  "description": "Node.js CLI that scans tech news RSS feeds for buying signals (fresh funding, new execs, hiring, expansion), scores them, and enriches hot leads with Gemini.",
+  "type": "module",
+  "bin": {
+    "prospector": "bin/prospector.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node bin/prospector.js scan",
+    "scan": "node bin/prospector.js scan",
+    "demo": "node bin/prospector.js demo",
+    "doctor": "node bin/prospector.js doctor",
+    "test": "node --test --test-reporter=spec \"test/**/*.test.js\""
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "sales",
+    "lead-generation",
+    "rss",
+    "gemini",
+    "b2b",
+    "intent-data",
+    "prospecting",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.6.1",
+    "fast-xml-parser": "^5.11.2"
+  }
+}

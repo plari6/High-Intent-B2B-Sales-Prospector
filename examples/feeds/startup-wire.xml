@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sample feed with fictional companies, used by `prospector demo` and the tests. -->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>Startup Wire (sample)</title>
+  <link>https://startupwire.example</link>
+  <description>Fictional startup news for demos</description>
+  <item>
+    <title>Ledgerly raises $4.5M seed round to automate month-end close for SMBs</title>
+    <link>https://startupwire.example/2026/11/02/ledgerly-seed/?utm_source=rss</link>
+    <pubDate>Mon, 02 Nov 2026 14:10:00 +0000</pubDate>
+    <dc:creator>Sam Writer</dc:creator>
+    <category>Fintech</category>
+    <category>Funding</category>
+    <description><![CDATA[<p>Austin-based Ledgerly, a fintech startup building AI bookkeeping agents for small businesses, has raised a $4.5 million seed round led by Northpeak Ventures. The company plans to double its team and build out its go-to-market team in 2027.</p><p>The post <a href="https://startupwire.example/ledgerly">Ledgerly raises $4.5M</a> appeared first on Startup Wire.</p>]]></description>
+  </item>
+  <item>
+    <title>Exclusive: Brightpath Robotics lands $22M Series A led by Ironfield Capital</title>
+    <link>https://startupwire.example/2026/11/01/brightpath-series-a/</link>
+    <pubDate>Sun, 01 Nov 2026 09:00:00 +0000</pubDate>
+    <category>Robotics</category>
+    <content:encoded><![CDATA[<p>Brightpath Robotics, which makes warehouse picking robots, closed a $22 million Series A. CEO Dana Ortiz said the money will fund expansion into Europe and a new office in Rotterdam.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Cloudnest appoints former Stripe exec Maya Chen as Chief Revenue Officer</title>
+    <link>https://startupwire.example/2026/11/03/cloudnest-cro/</link>
+    <pubDate>Tue, 03 Nov 2026 08:30:00 +0000</pubDate>
+    <category>SaaS</category>
+    <description>Cloudnest, a B2B SaaS platform for managed hosting, named Maya Chen its first CRO as it prepares to scale its sales team after a strong year.</description>
+  </item>
+  <item>
+    <title>Northpeak Ventures closes $300M Fund III to back early-stage B2B startups</title>
+    <link>https://startupwire.example/2026/11/02/northpeak-fund-iii/</link>
+    <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
+    <description>The venture firm's third fund will write seed and Series A checks.</description>
+  </item>
+  <item>
+    <title>The week's 10 biggest funding rounds: robotics and AI lead</title>
+    <link>https://startupwire.example/2026/10/31/biggest-rounds/</link>
+    <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
+    <description>Brightpath Robotics raised $22M, plus nine more rounds this week.</description>
+  </item>
+  <item>
+    <title>Quantafy lays off 30% of staff as it pivots away from consumer</title>
+    <link>https://startupwire.example/2026/11/02/quantafy-layoffs/</link>
+    <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Quantafy, which raised a $12M Series A last year, is cutting jobs.</description>
+  </item>
+  <item>
+    <title>Old news: Fernway raises $3M seed</title>
+    <link>https://startupwire.example/2026/09/15/fernway-seed/</link>
+    <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+    <description>Fernway raised a seed round in September.</description>
+  </item>
+  <item>
+    <title>How to raise a seed round in 2027: 7 tips from investors</title>
+    <link>https://startupwire.example/2026/11/02/how-to-raise/</link>
+    <pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate>
+    <description>Advice for founders.</description>
+  </item>
+  <item>
+    <title>Why remote work is here to stay</title>
+    <link>https://startupwire.example/2026/11/02/remote-work/</link>
+    <pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate>
+    <description>An opinion piece with no buying signal at all.</description>
+  </item>
+</channel>
+</rss>

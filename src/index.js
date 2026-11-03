@@ -1,0 +1,11 @@
+export { runScan, commitLeads, groupLeads, companyKey } from './pipeline.js';
+export { detectSignals, extractCompany, extractAmount, extractRound, extractRole } from './detector.js';
+export { SIGNALS, keywordSignals } from './signals.js';
+export { scoreLead, tierFor } from './scorer.js';
+export { parseFeed } from './parser.js';
+export { fetchFeedText } from './fetcher.js';
+export { loadFeeds, googleNewsFeed } from './feeds.js';
+export { createGemini } from './ai.js';
+export { Store, memoryStore } from './store.js';
+export { toRow, toCsv, toMarkdown, writeOutputs, sendWebhook } from './output.js';
+export { readConfig, loadEnv } from './config.js';
